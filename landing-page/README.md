@@ -1,8 +1,6 @@
 # Landing Page Project
 
-## 
-
-The starter project has some HTML, CSS styling and Javascript to display a dynamic version of the Landing Page project. 
+##  
 
 -When a certain section is displaying on the view port, the section will have an active class added to it's class list adding to that the link
 that belongs to that section will have an added class of active link.
